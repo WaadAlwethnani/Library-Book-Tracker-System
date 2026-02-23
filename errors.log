@@ -1,0 +1,16 @@
+[2026-02-22T17:57:35] INVALID INPUT: "Clean Architecture:Robert C. Martin:123ABC4567890:3"
+InvalidISBNException: ISBN must contain digits only
+[2026-02-22T17:59:48] INVALID INPUT: "Clean Architecture:Robert C. Martin:9780134494166"
+MalformedBookEntryException: New book record must be: title:author:isbn:copies
+[2026-02-22T18:16:27] INVALID INPUT: "9780133943030"
+DuplicateISBNException: Duplicate ISBN found in catalog: 9780133943030
+[2026-02-22T18:21:20] INVALID INPUT: "Modern Software Design:Alan Cooper:1234567890123:0"
+MalformedBookEntryException: Copies must be positive
+[2026-02-23T15:47:19] INVALID INPUT: "NO ARGUMENTS"
+InsufficientArgumentsException: Usage: java LibraryBookTracker <catalogFile.txt> <operationArgument>
+[2026-02-23T15:49:28] INVALID INPUT: "catalog.pdf"
+InvalidFileNameException: First argument must end with .txt
+[2026-02-23T15:49:28] INVALID INPUT: "hello"
+InvalidFileNameException: First argument must end with .txt
+[2026-02-23T16:21:39] INVALID INPUT: "NO ARGUMENTS"
+InsufficientArgumentsException: Usage: java LibraryBookTracker <catalogFile.txt> <operationArgument>

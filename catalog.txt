@@ -1,0 +1,8 @@
+Code Complete:Steve McConnell:9780735619678:1
+Design Patterns:Erich Gamma:9780201633610:4
+Introduction to Algorithms:Thomas H. Cormen:9780262033848:5
+Refactoring:Martin Fowler:9780134757599:2
+Software Engineering:Ian Sommerville:9780133943030:2
+The Clean Coder:Robert C. Martin:9780137081073:3
+Software Engineering 2:Ian Sommerville:9780133943030:1
+Broken Book:John Smith:123ABC4567890:3
